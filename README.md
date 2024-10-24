@@ -14,48 +14,37 @@ Avant de commencer, assurez-vous que Node.js est installé sur votre machine.
 
 Clonez le dépôt sur votre machine locale :
 
-
 ``git clone https://github.com/LeanoxDev/zleanox-selfbot-rpc.git``
 
 Accédez au dossier du projet :
 
-bash
-Copier le code
-cd zleanox-selfbot-rpc
+``cd zleanox-selfbot-rpc``
+
 Installez les dépendances nécessaires :
 
-bash
-Copier le code
-npm install
-Les dépendances suivantes seront installées :
-
-axios
-chalk
-discord-rpc
-discord.js-selfbot-v13
-figlet
-form-data
-node-notifier
+``Executer le .bat 'install depancy zleanox-activity.bat'``
 Démarrez le selfbot :
 
-bash
-Copier le code
-node zleanox-activity.mjs
-Utilisation
-Assurez-vous d'avoir votre token Discord. Attention : L'utilisation de selfbots est contraire aux conditions d'utilisation de Discord.
+``Executer le .bat 'Start ZActivity.bat``
 
-Configurez votre Rich Presence dans le fichier config.json.
+Utilisation
+
+Assurez-vous d'avoir votre token Discord. 
+Attention : L'utilisation de selfbots est contraire aux conditions d'utilisation de Discord.
+
+Configurez votre Rich Presence
 
 Lancez le bot via la commande mentionnée dans la section Installation.
 
-Avertissement
-⚠️ Disclaimer ⚠️
 
-Ce selfbot est fourni à titre éducatif. L'utilisation de selfbots est strictement interdite par Discord. En utilisant ce programme, vous comprenez les risques encourus (y compris un potentiel bannissement de votre compte Discord). L'auteur, Leanox, ne sera pas responsable de tout dommage ou bannissement lié à l'utilisation de ce selfbot.
+# ⚠️ Disclaimer ⚠️
+
+Ce selfbot est fourni à titre éducatif. L'auteur, ne sera pas responsable de tout dommage lié à l'utilisation de ce selfbot.
 
 Veuillez accepter les termes et conditions avant d'utiliser le selfbot.
 
 Contributeur
 Leanox - Développeur principal
+
 License
 Ce projet est sous licence MIT. Pour plus d'informations, consultez le fichier LICENSE.
