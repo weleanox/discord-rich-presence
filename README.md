@@ -29,7 +29,7 @@ Démarrez le selfbot :
 
 # 🤖 Utilisation
 
-Assurez-vous d'avoir votre token Discord. 
+Assurez-vous d'avoir votre token Discord. https://www.youtube.com/watch?v=SK9k9Zp-Gq8
 Attention : L'utilisation de selfbots est contraire aux conditions d'utilisation de Discord.
 
 Configurez votre Rich Presence
