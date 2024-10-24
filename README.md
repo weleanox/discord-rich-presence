@@ -3,20 +3,20 @@
 
 ZLeanox Selfbot RPC est un selfbot Discord développé par Leanox qui permet d'afficher un Rich Presence entièrement personnalisable. Il utilise la bibliothèque discord.js-selfbot-v13 pour gérer les interactions Discord et offre des options avancées pour enrichir votre statut avec des informations dynamiques.
 
-Fonctionnalités
-Rich Presence Discord : Affiche un statut personnalisé avec des détails spécifiques sur votre activité.
-Personnalisation complète : Modifiez facilement les détails de votre RPC via un fichier de configuration simple.
-Notifications intelligentes : Recevez des notifications système via node-notifier.
-Prise en charge de plusieurs API : Grâce à axios et form-data, vous pouvez intégrer des données provenant de diverses sources externes.
-Affichage stylisé dans le terminal : Utilise chalk pour styliser le texte et figlet pour de l'art ASCII impressionnant.
+Fonctionnalités :
+- Rich Presence Discord : Affiche un statut personnalisé avec des détails spécifiques sur votre activité.
+- Personnalisation complète : Modifiez facilement les détails de votre RPC via un fichier de configuration simple.
+- Notifications intelligentes : Recevez des notifications système via node-notifier.
+- Affichage stylisé dans le terminal : Utilise chalk pour styliser le texte et figlet pour l'ASCII.
+
 Installation
-Avant de commencer, assurez-vous que Node.js est installé sur votre machine. Si ce n'est pas le cas, vous pouvez le télécharger ici.
+Avant de commencer, assurez-vous que Node.js est installé sur votre machine.
 
 Clonez le dépôt sur votre machine locale :
 
-bash
-Copier le code
-git clone https://github.com/LeanoxDev/zleanox-selfbot-rpc.git
+
+``git clone https://github.com/LeanoxDev/zleanox-selfbot-rpc.git``
+
 Accédez au dossier du projet :
 
 bash
