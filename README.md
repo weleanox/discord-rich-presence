@@ -1,5 +1,5 @@
 discord-rpc-rich-presence
-# ZLeanox Selfbot RPC
+# 🚀 ZLeanox Selfbot RPC
 
 ZLeanox Selfbot RPC est un selfbot Discord développé par Leanox qui permet d'afficher un Rich Presence entièrement personnalisable. Il utilise la bibliothèque discord.js-selfbot-v13 pour gérer les interactions Discord et offre des options avancées pour enrichir votre statut avec des informations dynamiques.
 
